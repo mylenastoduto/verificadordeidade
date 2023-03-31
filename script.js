@@ -35,7 +35,7 @@ function verificar(){
                 img.setAttribute('src', 'bebemenina.png')
                 //BEBE
             } else if (idade <10){
-                img.setAttribute('src', criancamenina.png)
+                img.setAttribute('src', 'criancamenina.png')
                 //CRIANÇA
             } else if (idade <21){
                 img.setAttribute('src', 'jovemmulher.png')
